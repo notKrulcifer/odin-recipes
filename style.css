@@ -1,7 +1,8 @@
 body {
-    width: 600px;
+    width: 700px;
     margin-left: auto;
     margin-right: auto;
+    padding: 30px;
 }
 
 h1 {
