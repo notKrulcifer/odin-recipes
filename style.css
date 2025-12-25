@@ -2,7 +2,7 @@ body {
     width: 700px;
     margin-left: auto;
     margin-right: auto;
-    padding: 30px;
+    padding: 20px;
 }
 
 h1 {
@@ -17,6 +17,7 @@ img {
 .recipes {
     margin-top: 50px;
     list-style: decimal-leading-zero;
+    margin-bottom: 50px;
 }
 
 .recipes li {
