@@ -13,3 +13,11 @@ img {
     width: 100%;
     height: auto;
 }
+
+.recipes {
+    margin-top: 50px;
+}
+
+.recipes li {
+    margin-top: 10px;
+}
