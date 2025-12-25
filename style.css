@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
 body {
     width: 700px;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+    font-family: "Quicksand", sans-serif;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
 h1 {
@@ -12,6 +17,7 @@ h1 {
 img {
     width: 100%;
     height: auto;
+    border: 3px solid black;
 }
 
 .recipes {
@@ -22,4 +28,13 @@ img {
 
 .recipes li {
     margin-top: 10px;
+}
+
+ul li,
+ol li {
+    margin-top: 10px;
+}
+
+h2 {
+    margin-top: 30px;
 }
