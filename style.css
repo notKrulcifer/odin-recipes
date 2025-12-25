@@ -16,6 +16,7 @@ img {
 
 .recipes {
     margin-top: 50px;
+    list-style: decimal-leading-zero;
 }
 
 .recipes li {
